@@ -1,4 +1,4 @@
-package Chapter1.java;
+package Interface;
 
 public class A {
 	// Java program to illustrate the
